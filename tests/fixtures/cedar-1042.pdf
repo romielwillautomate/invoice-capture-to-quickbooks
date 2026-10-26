@@ -1,0 +1,119 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 8 0 R /MediaBox [ 0 0 612 792 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+>>
+endobj
+6 0 obj
+<<
+/Author (Cedar Ridge Landscaping) /CreationDate (D:20261026164725+08'00') /Creator (anonymous) /Keywords () /ModDate (D:20261026164725+08'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (fixture:cedar-1042) /Title (Invoice CRL-1042) /Trapped /False
+>>
+endobj
+7 0 obj
+<<
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
+>>
+endobj
+8 0 obj
+<<
+/Length 1813
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 18 Tf 21.6 TL ET
+BT 1 0 0 1 54 720 Tm (Cedar Ridge Landscaping) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 54 702 Tm (19 Orchard Lane) Tj T* ET
+BT 1 0 0 1 54 689 Tm (Springfield, IL 62704) Tj T* ET
+BT 1 0 0 1 54 676 Tm (hello@cedarridge.example.com) Tj T* ET
+BT /F2 22 Tf 26.4 TL ET
+BT 1 0 0 1 467.536 720 Tm (INVOICE) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 390.86 696 Tm (Invoice number:) Tj T* ET
+BT 1 0 0 1 512.43 696 Tm (CRL-1042) Tj T* ET
+BT 1 0 0 1 405.3 682 Tm (Invoice date:) Tj T* ET
+BT 1 0 0 1 500.74 682 Tm (Oct 15, 2026) Tj T* ET
+BT 1 0 0 1 418.64 668 Tm (Due date:) Tj T* ET
+BT 1 0 0 1 498.52 668 Tm (Nov 14, 2026) Tj T* ET
+BT 1 0 0 1 418.66 654 Tm (Currency:) Tj T* ET
+BT 1 0 0 1 536.89 654 Tm (USD) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 54 622 Tm (Bill to) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 54 608 Tm (Maple Street Bakery) Tj T* ET
+BT 1 0 0 1 54 595 Tm (412 Maple Street) Tj T* ET
+BT 1 0 0 1 54 582 Tm (Springfield, IL 62701) Tj T* ET
+BT 1 0 0 1 54 569 Tm (ap@maplestreetbakery.example.com) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 54 522 Tm (Description) Tj T* ET
+BT 1 0 0 1 520.23 522 Tm (Amount) Tj T* ET
+n 54 518 m 558 518 l S
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 54 504 Tm (October lawn care, 4 visits) Tj T* ET
+BT 1 0 0 1 521.86 504 Tm ($340.00) Tj T* ET
+n 320 494 m 558 494 l S
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 425.31 478 Tm (Subtotal) Tj T* ET
+BT 1 0 0 1 521.86 478 Tm ($340.00) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 445.33 462 Tm (Tax) Tj T* ET
+BT 1 0 0 1 532.98 462 Tm ($0.00) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 417.55 446 Tm (Total due) Tj T* ET
+BT 1 0 0 1 521.86 446 Tm ($340.00) Tj T* ET
+BT /F1 9 Tf 10.8 TL ET
+BT 1 0 0 1 54 72 Tm (Please include CRL-1042 with your payment. Thank you for your business.) Tj T* ET
+ 
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000514 00000 n 
+0000000582 00000 n 
+0000000872 00000 n 
+0000000931 00000 n 
+trailer
+<<
+/ID 
+[<178cc460200675365638b9ccbed61cf0><178cc460200675365638b9ccbed61cf0>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
+>>
+startxref
+2795
+%%EOF
