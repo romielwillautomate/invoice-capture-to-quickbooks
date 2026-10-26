@@ -30,13 +30,14 @@ flowchart LR
     B -->|yes| C[Gmail: emails labeled To Process]
     C --> D[Ledger: skip PDFs already handled]
     D --> E[Claude reads each PDF into a strict schema]
-    E -->|unreadable, not a bill, Claude failing| P[Needs a person: Slack, Needs Review label]
+    E -->|unreadable, not a bill, Claude failing on several runs| P[Needs a person: Slack, Needs Review label]
     E --> F[QuickBooks: vendor by name, bill by number]
     F --> G[Checks in code: totals, dates, currency, duplicates]
     G -->|duplicate| DU[Skipped: Slack note, Processed label]
     G --> H[Save the ledger row, then Slack with signed Approve and Reject links]
     H --> L[Email label: Awaiting Approval]
-    F -->|QuickBooks or Claude down| R[Waits for the next run, run fails for an alert]
+    F -->|QuickBooks down| R[Waits for the next run, run fails for an alert]
+    E -->|Claude down| R
 ```
 
 Approving (the links in Slack):
